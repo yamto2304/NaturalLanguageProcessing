@@ -14,6 +14,7 @@ corpus-title/: Thư mục chứa dữ liệu huấn luyện (.txt).
 Source: [Binhvq News Corpus](https://github.com/binhvq/news-corpus/blob/master/README.md)
 
 ngram_model.pkl: File lưu trữ mô hình sau khi huấn luyện (tự động tạo ra).
+<img width="289" height="249" alt="image" src="https://github.com/user-attachments/assets/2d4e5071-e6fc-47c7-9b24-c700683fc2e5" />
 
 2. Các kỹ thuật áp dụng
 
